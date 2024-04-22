@@ -16,7 +16,7 @@
                                 query: request.term
                             },
                             success: function(data) {
-                                response($.map(data, function(item) {
+                                response($.map(data.slice(0, 10), function(item) {
                                     return {
                                         label: item.name,
                                         value: item.id

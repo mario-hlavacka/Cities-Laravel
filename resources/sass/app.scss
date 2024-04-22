@@ -17,6 +17,10 @@
     color: rgb(170, 166, 166);
 }
 
+#magnifying-glass {
+    color: rgb(170, 166, 166);
+}
+
 .vertical-center {
     min-height: 90%;
     display: flex;
@@ -63,4 +67,7 @@ table#city-details td {
     padding: 6px 0;
 }
 
+#header-input {
+    border-right: 0;
+}
 

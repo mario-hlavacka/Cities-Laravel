@@ -16,17 +16,13 @@
                     <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         EN
                     </a>
-
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                        <a class="dropdown-item" href="#">EN</a>
-                    </div>
                 </div>
             </div>
 
             <div class="pe-2 py-2 bd-highlight">
                 <div class="input-group mb-3">
-                    <input type="text" class="form-control shadow-none">
-                    <span class="input-group-text"><i class="fa-solid fa-magnifying-glass"></i></span>
+                    <input id="header-input" type="text" class="form-control shadow-none">
+                    <span id="magnifying-glass" class="input-group-text bg-white"><i class="fa-solid fa-magnifying-glass"></i></span>
                 </div>
             </div>
             <div class="p-2 bd-highlight">
