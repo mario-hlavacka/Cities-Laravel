@@ -1,4 +1,4 @@
-# ui42 assignment - Laravel
+# Cities App - Laravel
 
 ## Installation steps:
 
